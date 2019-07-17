@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_set_lock_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#545258"
+        android:text="@string/set_lock_screen"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_set_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#545258"
+        android:text="@string/set_lock_home_screen"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:background="#00545258"
+        android:text="@string/exit"
+        android:textColor="@color/white" />
+</LinearLayout>

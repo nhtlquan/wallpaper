@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff000d</color>
+    <color name="colorPrimaryDark">#ff000d</color>
+    <color name="colorAccent">#ff0404</color>
+    <color name="white">#ffffff</color>
+    <color name="green_1">#22ba22</color>
+    <color name="black">#000000</color>
+    <color name="backgrounditem">#818181</color>
+    <color name="place_color_1">#D6D5D5</color>
+    <color name="place_color_2">#C0E3E0</color>
+    <color name="place_color_3">#EACAD5</color>
+    <color name="place_color_4">#EADAA9</color>
+    <color name="item_add">#E4E4E4</color>
+</resources>

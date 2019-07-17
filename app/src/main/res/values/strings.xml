@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="set">set</string>
+    <string name="set_lock_screen">ĐẶT LÀM MÀN HÌNH KHÓA</string>
+    <string name="set_lock_home_screen"><![CDATA[ĐẶT LÀM MÀN HÌNH KHÓA & CHỦ]]></string>
+    <string name="exit">THOÁT</string>
+    <string name="tab_wallpaper">Hình nền</string>
+    <string name="tab_my_wallpaper">Ảnh của tôi</string>
+    <string name="upload">Upload</string>
+    <string name="cut_image">Bạn có đồng ý cắt ảnh?</string>
+    <string name="yes">Đồng ý</string>
+    <string name="no">Không</string>
+    <string name="succes">Thành Công</string>
+    <string name="not_succes">Không thành công</string>
+</resources>
